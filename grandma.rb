@@ -1,5 +1,5 @@
-# Write a speak_to_grandma method.
 
+<<<<<<< HEAD
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
@@ -20,4 +20,10 @@ def speak_to_grandma(phrase)
   else
     return "NO, NOT SINCE 1938!"
   end
+=======
+def speak_to_grandma 
+  if "phrase" == "phrase"
+    puts "hi"
+ end
+>>>>>>> c5741a667afcff903cd761ee1d3a3a91b1fc2efd
 end
